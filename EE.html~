@@ -32,7 +32,7 @@
           <div class="site-nav"> 
             <nav role="navigation">
               <ul class="nav justify-content-center">
-                <li class="nav-item"><a class="nav-link" href="index.html" title="HOME"><span class="menu-title">HOME</span></a>
+                <li class="nav-item"><a class="nav-link" href="index.html" title="ABOUT"><span class="menu-title">ABOUT</span></a>
                 </li>
 		<!--<li class="nav-item"><a class="nav-link" href="skills.html" title="Skills"><span class="menu-title">Skills</span></a>
 		</li>-->
@@ -131,6 +131,7 @@
           <div class="footer-nav">
             <nav role="navigation">
               <ul class="nav justify-content-center">
+		<!--      
                 <li class="nav-item"><a class="nav-link" href="https://twitter.com/templateflip" title="Twitter"><i class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/templateflip" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
@@ -139,6 +140,7 @@
                 </li>
                 <li class="nav-item"><a class="nav-link" href="https://github.com/templateflip" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
                 </li>
+		-->
               </ul>
             </nav>
           </div>
