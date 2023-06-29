@@ -2155,6 +2155,7 @@ input, select, textarea {
 				width: 100%;
 				margin: auto;
 				display: block;
+				border-radius: 70%;
 			}
 		
 
