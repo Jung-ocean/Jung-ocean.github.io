@@ -56,74 +56,74 @@
     <div class="page-content">
       <div class="container">
 <div class="resume-container">
-  <div class="shadow-1-strong bg-white my-5 p-5" id="experience">
-    <div class="work-experience-section">
-      <h2 class="h2 fw-light mb-4">Experience</h2>
-      <div class="timeline">
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Postdoctoral researcher <span class="text-muted h6">at SNU-RIO</span></div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">Mar, 2023 - Present</div>
-            <div>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</div>
-          </div>
-        </div>
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="200">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Graduate research assistant <span class="text-muted h6">at Seoul National University MEPL</span></div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">Mar, 2014 - Feb, 2023</div>
-	    <!--<div></div>-->
-          </div>
-        </div>
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Undergraduate research intern <span class="text-muted h6">at Seoul National University MEPL</span></div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">Mar, 2013 - Feb, 2014</div>
-	    <!--<div></div>-->
+  <div class="shadow-1-strong bg-white my-5" id="intro">
+    <div class="bg-info text-white">
+      <div class="cover bg-image"><img src="images/header-background.jpg"/>
+        <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);backdrop-filter: blur(2px);">
+          <div class="text-center p-5">
+            <div class="avatar p-1"><img class="img-thumbnail shadow-2-strong" src="images/avatar.jpg" width="160" height="160"/></div>
+            <div class="header-bio mt-3">
+              <div data-aos="zoom-in" data-aos-delay="0">
+                <h2 class="h1">Jihun Jung</h2>
+                <p>Oceanographer</p>
+              </div>
+              <div class="header-social mb-3 d-print-none" data-aos="zoom-in" data-aos-delay="200">
+                <nav role="navigation">
+                  <ul class="nav justify-content-center">
+                    <li class="nav-item"><a class="nav-link" href="https://twitter.com/templateflip" title="Twitter"><i class="fab fa-twitter"></i><span class="menu-title sr-only">Twitter</span></a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="https://www.facebook.com/templateflip" title="Facebook"><i class="fab fa-facebook"></i><span class="menu-title sr-only">Facebook</span></a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="https://www.instagram.com/templateflip" title="Instagram"><i class="fab fa-instagram"></i><span class="menu-title sr-only">Instagram</span></a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="https://github.com/templateflip" title="Github"><i class="fab fa-github"></i><span class="menu-title sr-only">Github</span></a>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="d-print-none"><a class="btn btn-outline-light btn-lg shadow-sm mt-1 me-3" href="https://www.dropbox.com/s/ek72apt4kvstc2u/CV_JJung.pdf?dl=0" data-aos="fade-right" data-aos-delay="700">Download CV</a>
+		      <!--<a class="btn btn-info btn-lg shadow-sm mt-1" href="#contact" data-aos="fade-left" data-aos-delay="700">Hire Me</a>-->
+	      </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="shadow-1-strong bg-white my-5 p-5" id="education">
-    <div class="education-section">
-      <h2 class="h2 fw-light mb-4">Education</h2>
-      <div class="timeline">
-        <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">M.S./Ph.D. <span class="text-muted h6">from Seoul National University</span>          </div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">2014 - 2023</div>
-            <div>Earth and Environmental Sciences (Physical oceanography)</div>
-	    <div>Advisor: Prof. Yang-Ki Cho</div>
+  <div class="shadow-1-strong bg-white my-5 p-5 d-print-none" id="portfolio">
+    <div class="portfolio-section">
+      <h2 class="h2 fw-light mb-4">Research projects</h2>
+      <div class="row g-0">
+        <div class="col-md-6"><a href="https://dribbble.com/" target="_blank"><img class="img-fluid" src="images/project-1.jpg" width="800" height="500"/></a></div>
+        <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
+          <div class="m-4 mt-md-2">
+	    <!--<p class="text-teal text-small">Frontend / HTML / CSS / JavaScript</p>-->
+            <h3>Coming</h3>
+            <p class="text-muted">soon</p>
           </div>
         </div>
-        <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="200">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">B.S. <span class="text-muted h6">from Seoul National University</span>          </div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">2010 - 2014</div>
-            <div>Earth and Environmental Sciences</div>
-          </div>
-        </div>
-        <!--
-	<div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="400">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Science and Mathematics <span class="text-muted h6">from Mt. High Scool</span>          </div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">1995 - 2007</div>
-            <div>User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</div>
+      </div>
+      <!--
+      <div class="row g-0 portfolio-reverse">
+        <div class="col-md-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
+          <div class="m-4 mt-md-2 text-end">
+            <p class="text-teal text-small">Graphic Design / Photoshop / Sketch</p>
+            <h3>Restaurant Website Design</h3>
+            <p class="text-muted">Web design for popular resturant chain involving complex layouts done in both Photoshop and Sketch. Collaborated with back-end and front-end team for finished product.</p>
           </div>
         </div>
-	-->
+        <div class="col-md-6"><a href="https://www.behance.net/" target="_blank"><img class="img-fluid" src="images/project-2.jpg" width="800" height="500"/></a></div>
+      </div>
+      -->
+      <div class="row g-0">
+        <div class="col-md-6"><a href="https://dribbble.com/" target="_blank"><img class="img-fluid" src="images/project-3.jpg" width="800" height="500"/></a></div>
+        <div class="col-md-6 d-flex align-items-center" data-aos="fade-left" data-aos-delay="100">
+          <div class="m-4 mt-md-2">
+	  <!--<p class="text-teal text-small">Frontend / HTML / CSS / JavaScript</p>-->
+            <h3>Coming</h3>
+            <p class="text-muted">soon</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>

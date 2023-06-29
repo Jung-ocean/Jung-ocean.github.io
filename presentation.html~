@@ -56,75 +56,25 @@
     <div class="page-content">
       <div class="container">
 <div class="resume-container">
-  <div class="shadow-1-strong bg-white my-5 p-5" id="experience">
-    <div class="work-experience-section">
-      <h2 class="h2 fw-light mb-4">Experience</h2>
-      <div class="timeline">
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="0">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Postdoctoral researcher <span class="text-muted h6">at SNU-RIO</span></div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">Mar, 2023 - Present</div>
-            <div>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</div>
-          </div>
-        </div>
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="200">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Graduate research assistant <span class="text-muted h6">at Seoul National University MEPL</span></div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">Mar, 2014 - Feb, 2023</div>
-	    <!--<div></div>-->
-          </div>
-        </div>
-        <div class="timeline-card timeline-card-info" data-aos="fade-in" data-aos-delay="400">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Undergraduate research intern <span class="text-muted h6">at Seoul National University MEPL</span></div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">Mar, 2013 - Feb, 2014</div>
-	    <!--<div></div>-->
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="shadow-1-strong bg-white my-5 p-5" id="education">
+  <div class="shadow-1-strong bg-white my-5 p-5" id="Presentations">
     <div class="education-section">
-      <h2 class="h2 fw-light mb-4">Education</h2>
-      <div class="timeline">
-        <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="0">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">M.S./Ph.D. <span class="text-muted h6">from Seoul National University</span>          </div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">2014 - 2023</div>
-            <div>Earth and Environmental Sciences (Physical oceanography)</div>
-	    <div>Advisor: Prof. Yang-Ki Cho</div>
-          </div>
-        </div>
-        <div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="200">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">B.S. <span class="text-muted h6">from Seoul National University</span>          </div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">2010 - 2014</div>
-            <div>Earth and Environmental Sciences</div>
-          </div>
-        </div>
-        <!--
-	<div class="timeline-card timeline-card-success" data-aos="fade-in" data-aos-delay="400">
-          <div class="timeline-head px-4 pt-3">
-            <div class="h5">Science and Mathematics <span class="text-muted h6">from Mt. High Scool</span>          </div>
-          </div>
-          <div class="timeline-body px-4 pb-4">
-            <div class="text-muted text-small mb-3">1995 - 2007</div>
-            <div>User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</div>
-          </div>
-        </div>
-	-->
-      </div>
+      <h2 class="h2 fw-light mb-4">Presentation (Presenting author)</h2>
+        <div class="h5">International conferences/symposiums/workshops</div>
+	  <span class="text-muted h6">Effects of surface heating on coastal upwelling, Ocean Science Meeting (virtual), 2022. Oral</span><br /><br />
+	  <span class="text-muted h6">Persistence of wind-driven upwelling in the southern coast of the Korean peninsula during summer 2013, 22nd Seoul National University (SNU)-Hokkaido University (HU) Joint Symposium, 2019. Oral</span><br /><br />
+	  <span class="text-muted h6">Unprecedented Cold Water along the Southern Coast of Korea in Summer 2013, AGU Fall Meeting, 2018. Poster</span><br /><br />
+	  <span class="text-muted h6">Leakage of the YSBCW into the Korea Strait due to Strong Southerly Wind during summer in 2013, Ocean Science Meeting, 2016. Poster</span><br /><br />
+	  <span class="text-muted h6">Assimilation of surface subtidal flow using HF radar data in a tidally dominated strait, 7th International Workshop on Modeling the Ocean, 2015. Poster</span><br /><br />
+
+	  <div class="h5">Domestic conferences/symposiums/workshops<br /></div>
+	  <div class="h5">2021<br /></div>
+	    <span class="text-muted h6">Effects of surface heating on upwelling intensity, Korean Society of Oceanography Fall Meeting, 2021. Oral</span><br /><br />
+	  <div class="h5">2018<br /></div>
+	    <span class="text-muted h6">Low-temperature phenomenon of coastal waters in the southern coast of the Korean Peninsula in the summer of 2013, Korean Society of Oceanography Spring Meeting, 2018. Oral</span><br /><br />
+	  <div class="h5">2015<br /></div>
+	    <span class="text-muted h6">Physical characteristics and variability in the East China Sea in the Spring of 2015, Korean Society of Oceanography Fall Meeting, 2015. Oral</span><br /><br />
+	    <span class="text-muted h6">Data Assimilation of surface currents using HF radar data in Jeju Strait, Korean Society of Oceanography Spring Meeting, 2015. Poster</span><br /><br />
+	    <span class="text-muted h6">Assimilation of HF radar surface currents in Jeju Strait, Korea Ocean Radar Forum Workshop, 2015. Oral</span><br />
     </div>
   </div>
     <footer class="pt-4 pb-4 text-muted text-center d-print-none">
