@@ -60,10 +60,15 @@
     <div class="education-section">
       <h2 class="h2 fw-light mb-4">Presentation (Presenting author)</h2>
         <div class="h5">International conferences/symposiums/workshops</div>
+	  <div class="h5">2022<br /></div>
 	  <span class="text-muted h6">Effects of surface heating on coastal upwelling, Ocean Science Meeting (virtual), 2022. Oral</span><br /><br />
+	  <div class="h5">2019<br /></div>
 	  <span class="text-muted h6">Persistence of wind-driven upwelling in the southern coast of the Korean peninsula during summer 2013, 22nd Seoul National University (SNU)-Hokkaido University (HU) Joint Symposium, 2019. Oral</span><br /><br />
+	  <div class="h5">2018<br /></div>
 	  <span class="text-muted h6">Unprecedented Cold Water along the Southern Coast of Korea in Summer 2013, AGU Fall Meeting, 2018. Poster</span><br /><br />
+	  <div class="h5">2016<br /></div>
 	  <span class="text-muted h6">Leakage of the YSBCW into the Korea Strait due to Strong Southerly Wind during summer in 2013, Ocean Science Meeting, 2016. Poster</span><br /><br />
+	  <div class="h5">2015<br /></div>
 	  <span class="text-muted h6">Assimilation of surface subtidal flow using HF radar data in a tidally dominated strait, 7th International Workshop on Modeling the Ocean, 2015. Poster</span><br /><br />
 
 	  <div class="h5">Domestic conferences/symposiums/workshops<br /></div>

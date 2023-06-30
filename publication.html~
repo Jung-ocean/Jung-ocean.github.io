@@ -60,19 +60,16 @@
     <div class="education-section">
       <h2 class="h2 fw-light mb-4"><a href="https://scholar.google.com/citations?user=Uau8mnwAAAAJ&hl=ko">Publication</a></h2>
         <div class="h5">Manuscripts accepted, in revision, under review, submitted, or in preparation</div>
-	<span class="text-muted h6">Lee, S.-T., Y.-K. Cho, <strong>J. Jung</strong>, B.-J. Choi, Y. H. Kim, and S. Kim, Regional comparison of performance between EnKF and EnOI in the North Pacific, Progress in Oceanography, Submitted</span><br />
-	  <br />
-	  <span class="text-muted h6"><strong>Jung, J.</strong>, and Y. -K. Cho, Coastal wind-driven asymmetric circulation over a bank and effects of offshore currents, In preparation</span><br />
-	  <br />
-	  <span class="text-muted h6"><strong>Jung, J.</strong>, B.-G. Kim, Y. -K. Cho, and H. Shin, Assessment of CMIP6 model performance in ocean heat content and sea level changes, In preparation</span><br />
-          <br />
-	  <div class="h5">2023<br /></div>
-	  <span class="text-muted h6"><strong>Jung, J.</strong>, and Y. -K. Cho (2023), Effects of Surface Heating on Coastal Upwelling Intensity, Journal of Geophysical Research: Oceans, 128, e2022JC018795. https://doi.org/10.1029/2022JC018795</span><br />
-	    <br />
-	    <span class="text-muted h6">Lee, S.-T., <strong>J. Jung</strong>, G. Kim, Y.-J. Tak, and Y.-K. Cho (2023), Subsurface dispersion path and travel Time of radiocesium from Fukushima by Mode Water, Frontiers in Marine Science, 10, 1104786. https://doi.org/10.3389/fmars.2023.1104786</span><br />
-	  <br />
-	  <div class="h5">2020<br /></div>
+	  <span class="text-muted h6">Lee, S.-T., Y.-K. Cho, <strong>J. Jung</strong>, B.-J. Choi, Y. H. Kim, and S. Kim, Regional comparison of performance between EnKF and EnOI in the North Pacific, Progress in Oceanography, Submitted</span><br /><br />
+	  <span class="text-muted h6"><strong>Jung, J.</strong>, and Y. -K. Cho, Coastal wind-driven asymmetric circulation over a bank and effects of offshore currents, In preparation</span><br /><br />
+	  <span class="text-muted h6"><strong>Jung, J.</strong>, B.-G. Kim, Y. -K. Cho, and H. Shin, Assessment of CMIP6 model performance in ocean heat content and sea level changes, In preparation</span><br /><br />
+
+	<div class="h5">2023<br /></div>
+	  <span class="text-muted h6"><strong>Jung, J.</strong>, and Y. -K. Cho (2023), Effects of Surface Heating on Coastal Upwelling Intensity, Journal of Geophysical Research: Oceans, 128, e2022JC018795. https://doi.org/10.1029/2022JC018795</span><br /><br />
+	  <span class="text-muted h6">Lee, S.-T., <strong>J. Jung</strong>, G. Kim, Y.-J. Tak, and Y.-K. Cho (2023), Subsurface dispersion path and travel Time of radiocesium from Fukushima by Mode Water, Frontiers in Marine Science, 10, 1104786. https://doi.org/10.3389/fmars.2023.1104786</span><br /><br />
+	<div class="h5">2020<br /></div>
 	  <span class="text-muted h6"><strong>Jung, J.</strong>, and Y.-K. Cho (2020), Persistence of coastal upwelling after a plunge in upwelling-favourable wind, Scientific reports, 10, 11938. https://doi.org/10.1038/s41598-020-67785-x</span><br />
+
     </div>
   </div>
     <footer class="pt-4 pb-4 text-muted text-center d-print-none">
